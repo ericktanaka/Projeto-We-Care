@@ -5,4 +5,4 @@
 <p>- HTML</p>
 <p>- CSS</p>
 <img src="https://github.com/ericktanaka/Projeto-We-Care/blob/master/img/Desktop.png?raw=true">
-
+<img src="https://github.com/ericktanaka/Projeto-We-Care/blob/master/img/Desktop-responsive.png?raw=true">
